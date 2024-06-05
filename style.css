@@ -1,0 +1,108 @@
+img{
+    margin-top: 10px;
+    margin-left: 8px;
+}
+.box{
+    width: 378px;
+    height: 489px;
+    border-radius: 10px;
+    border: 1px rgba(244, 180, 180, 0.48) solid;
+    background-color: rgba(245, 245, 245, 1);
+   margin: 150px auto;
+}
+
+
+
+.Email{
+    font-weight: 500;
+    font-size: 16px;
+    color: rgba(97, 97, 97, 1);
+    line-height:  19.36px;
+    margin-top: 18px;
+    margin-left: 30px;
+    
+  
+   
+    }
+    .Email1{
+        width: 315px;
+        height: 45px;
+        margin-top: 2px;
+        margin-left: 30px;
+        border-radius: 10px;
+        border: 1px rgba(244, 180, 180, 0.48) solid;
+        position: relative;
+        color: rgba(158, 158, 158, 1);
+        
+
+     
+        
+    }
+    .vector{
+        position: absolute;
+        top: 410px;
+     left: 769px;
+    }
+    .Email1::placeholder{ 
+        color: rgba(158, 158, 158, 1);
+        font-size: 16px;
+        font-weight: 500;
+        padding-left: 11px;
+     
+    }
+    #email{
+        margin-top: 18px;
+ 
+
+    }
+    
+    .password{
+        font-weight: 500;
+        font-size: 16px;
+         color: rgba(97, 97, 97, 1);
+         margin-top: 14px;
+         margin-left: 30px;
+    }
+    .password1{
+        width: 315px;
+        height: 45px;
+        margin-top: 2px;
+        margin-left: 30px;
+        border-radius: 10px;
+        border: 1px rgba(244, 180, 180, 0.48) solid;
+        position: relative;
+       
+
+    }
+    .password1::placeholder{
+        color: rgba(158, 158, 158, 1);
+        font-size: 16px;
+        font-weight: 500;
+        padding-left: 11px;
+        
+        
+    }
+    .eye{
+        position: absolute;
+        top: 490px;
+        left: 769px;
+       
+
+
+    }
+    #password{
+        margin-top: 10px;
+    }
+    .button{
+        width: 315px;
+        height: 45px;
+        border-radius: 10px;
+        background-color: rgba(103, 86, 203, 1);
+        margin-top: 35px;
+        font-size: 15px;
+        font-weight: 700;
+        color: rgba(255, 255, 255, 1);
+       border: none;
+       margin-left: 30px;
+        }
+        
